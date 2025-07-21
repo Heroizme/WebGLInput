@@ -21,7 +21,7 @@ Build with Unity's WebGL Template ( Unity2023.2.2f1 )
 [PWA](https://kou-yeung.github.io/webgl_input_sample/pwa/index.html)
 
 # How to use
-1.download [WebGLSupport.unitypackage](https://github.com/kou-yeung/WebGLInput/releases) and import to project
+1.download [WebGLSupport.unitypackage](https://github.com/Heroizme/WebGLInput/releases/download/1.4.2/WebGLSupport.unitypackage) and import to project
 
   or add https://github.com/kou-yeung/WebGLInput.git?path=Assets/WebGLSupport from Package Manager
   
